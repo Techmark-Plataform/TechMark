@@ -1,0 +1,43 @@
+.techmark{
+    margin-top: 10%;
+    margin-left: 12%;
+    width: 20%;
+}
+.icone{
+    margin-top: -34%;
+    width: 50%;
+    margin-left: 40%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+}
+.tech{
+    margin-left: 6%;font-size:2rem;margin-right: 50%;
+}
+.image{ 
+    display: flex;
+}
+.about{
+    display: flex;
+    margin-left: 30.5em;
+    margin-top: -20em;
+}
+.about2{
+    margin-left: 35em;
+    margin-right: 5%;
+    font-size: 1.3em;
+}
+.contrucao{
+    margin-top: 45%;
+    margin-left: 5%;
+}
+.contrucao2{
+    font-size: 1.3em;
+    margin-left: 5%;
+    display: flex;
+    margin-right: 50%;
+}
+.images{
+    margin-left: 50%;
+    margin-top: -30%;
+}
